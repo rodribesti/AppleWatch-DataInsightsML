@@ -1,0 +1,35 @@
+# =========================
+# DATA (muy importante en tu caso)
+# =========================
+data/*.xml
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+
+# Entornos virtuales
+venv/
+.env/
+.env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# SISTEMA
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# AZURE / FABRIC / PIPELINES
+# =========================
+*.tmp
+*.bak
